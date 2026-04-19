@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MenuLab</string>
+    <string name="number_text">0</string>
+    <string name="hint_text">Нажмите на три точки сверху для главного меню.\nУдерживайте число для контекстного меню (+10 / -10).</string>
+
+    <string name="menu_red">Красный текст</string>
+    <string name="menu_green">Зелёный текст</string>
+    <string name="menu_blue">Синий текст</string>
+
+    <string name="context_menu_title">Действия с числом</string>
+    <string name="context_increase">Увеличить на 10</string>
+    <string name="context_decrease">Уменьшить на 10</string>
+
+    <string name="toast_red">Выбран красный цвет</string>
+    <string name="toast_green">Выбран зелёный цвет</string>
+    <string name="toast_blue">Выбран синий цвет</string>
+    <string name="toast_increase">Число увеличено на 10</string>
+    <string name="toast_decrease">Число уменьшено на 10</string>
+</resources>
